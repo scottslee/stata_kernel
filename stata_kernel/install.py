@@ -68,7 +68,7 @@ def install_conf(conf_file):
 
     # Path to stata executable. If you type this in your terminal, it should
     # start the Stata console
-    stata_path = {}
+    stata_path = /Applications/StataNow/StataMP.app/Contents/MacOS/StataMP
 
     # **macOS only**
     # The manner in which the kernel connects to Stata. Either 'console' or
