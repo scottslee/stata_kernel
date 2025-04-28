@@ -32,7 +32,7 @@ documentation = "https://kylebarron.dev/stata_kernel/"
 python = "^3.6.1"
 beautifulsoup4 = "^4.6.3"
 #pandas = "^1.0"
-pandas>=1.0
+pandas = ">=1.0"
 pygments = "^2.2"
 pexpect = "^4.6.0"
 requests = "^2.19.1"
